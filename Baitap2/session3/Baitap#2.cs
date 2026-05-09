@@ -80,7 +80,7 @@ namespace Baitap2.session3
             //11.  Repeat Number in Rows
             Console.Write("Nhap mot so: ");
             int num=int.Parse(Console.ReadLine());
-            Console.Write("{0} {0} {0} {0}\n"+"{0}{0}{0}{0}\n"+"{0} {0} {0} {0}\n"+"{0}{0}{0}{0}", num);
+            Console.WriteLine("{0} {0} {0} {0}\n"+"{0}{0}{0}{0}\n"+"{0} {0} {0} {0}\n"+"{0}{0}{0}{0}", num);
             //12.Celsius to Kelvin and Fahrenheit
             Console.Write("Nhap do Celsius: ");
             int ce = int.Parse(Console.ReadLine());
