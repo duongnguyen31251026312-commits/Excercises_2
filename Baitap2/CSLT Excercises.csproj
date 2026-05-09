@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSLT_Excercises.session2.Baitap_1</StartupObject>
+    <StartupObject></StartupObject>
   </PropertyGroup>
 
 </Project>
